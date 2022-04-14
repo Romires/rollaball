@@ -4,7 +4,7 @@ using Random = UnityEngine.Random;
 
 namespace Geekbrains
 {
-    public sealed class BadBonus : InteractiveObject, IFlay, IRotation, ICloneable
+    public sealed class BadBonus : InteractiveObject, IFlay, IRotation, ICloneable//
     {
         private float _lengthFlay;
         private float _speedRotation;
